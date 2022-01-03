@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "PDguz5tph1jECrzYWPGmPHw4hMJH4meUmW5KVki4CuJfEBlBBm8VyjFxOnlElmIONxrVCQ4zaC1Y17hQjG5ZEQ==",
+  "success": true,
+  "projectFilePath": "C:\\Development-UI\\ParserAPI\\ParserAPI\\ParserAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\merce\\.nuget\\packages\\mediatr\\8.1.0\\mediatr.8.1.0.nupkg.sha512",
+    "C:\\Users\\merce\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\8.1.0\\mediatr.extensions.microsoft.dependencyinjection.8.1.0.nupkg.sha512",
+    "C:\\Users\\merce\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.0.0\\microsoft.extensions.dependencyinjection.abstractions.2.0.0.nupkg.sha512",
+    "C:\\Users\\merce\\.nuget\\packages\\microsoft.openapi\\1.1.4\\microsoft.openapi.1.1.4.nupkg.sha512",
+    "C:\\Users\\merce\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.5.1\\swashbuckle.aspnetcore.swagger.5.5.1.nupkg.sha512",
+    "C:\\Users\\merce\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.5.1\\swashbuckle.aspnetcore.swaggergen.5.5.1.nupkg.sha512",
+    "C:\\Users\\merce\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.5.1\\swashbuckle.aspnetcore.swaggerui.5.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}
